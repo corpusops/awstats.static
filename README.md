@@ -1,0 +1,1 @@
+# awstats static stats generator

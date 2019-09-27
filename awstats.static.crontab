@@ -1,0 +1,2 @@
+MAILTO=""
+0 3 * * * root __DIR__/awstats.static.sh >/dev/null 2>&1
